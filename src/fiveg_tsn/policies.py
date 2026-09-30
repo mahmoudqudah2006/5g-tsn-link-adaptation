@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-from .models import MCSProfile, MCS_TABLE
+from .models import MCS_TABLE, MCSProfile
 
 
 class FixedPolicy:
